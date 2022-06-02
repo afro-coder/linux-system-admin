@@ -70,8 +70,11 @@ setenforce 0
 ```
 
 Read about SELinux first
+
 https://wiki.gentoo.org/wiki/SELinux/Tutorials
+
 https://wiki.gentoo.org/wiki/Category:SELinux
+
 https://wiki.gentoo.org/wiki/SELinux/Tutorials/How_SELinux_controls_file_and_directory_accesses
 
 ### Package Management
@@ -107,8 +110,8 @@ ps -ylC httpd
 #### File Processing
 
 - vim → press i to go to insert mode, vimtutor will help you learn basic vim
-- wc → Word Count for lines → wc -l #https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/text-information-tools.html
-- shell redirection, >, >>, 2>1 # https://tldp.org/LDP/abs/html/io-redirection.html
+- wc → Word Count for lines → wc -l ||  https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/text-information-tools.html
+- shell redirection, >, >>, 2>1  || https://tldp.org/LDP/abs/html/io-redirection.html
 
 Basic file commands https://tldp.org/LDP/abs/html/basic.html
 - less => View files in a pager mode -> Ability to view and search text
