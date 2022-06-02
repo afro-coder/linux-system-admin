@@ -27,4 +27,4 @@ vagrant ssh
 
 This guide is a simple primer of what I taught, I haven't followed any linux tutorials before so I'm not sure how I'd teach that to someone.
 
-The first guide is stored in day_1.md
+The first guide is stored in [Day01.md](https://github.com/afro-coder/linux-system-admin/blob/main/Day01.md)
