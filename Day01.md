@@ -88,7 +88,7 @@ repoquery -l httpd
 ```
 #### Get installed packages with the name httpd
 ```
-yum list installed | grep httpd
+yum list installed *httpd*
 ```
 ### Process Management
 
